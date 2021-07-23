@@ -5,3 +5,5 @@ C:\Users\mattm\source\repos\ECPT\ECPT\obj\Debug\ECPT.csproj.CoreCompileInputs.ca
 C:\Users\mattm\source\repos\ECPT\ECPT\obj\Debug\ECPT.csproj.CopyComplete
 C:\Users\mattm\source\repos\ECPT\ECPT\obj\Debug\ECPT.dll
 C:\Users\mattm\source\repos\ECPT\ECPT\obj\Debug\ECPT.pdb
+C:\Users\mattm\source\repos\ECPT\ECPT\obj\Debug\ECPT.Resource1.resources
+C:\Users\mattm\source\repos\ECPT\ECPT\obj\Debug\ECPT.csproj.GenerateResource.cache
