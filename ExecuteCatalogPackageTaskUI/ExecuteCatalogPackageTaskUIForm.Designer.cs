@@ -29,6 +29,7 @@ namespace ExecuteCatalogPackageTaskUI
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ExecuteCatalogPackageTaskUIForm));
             this.intLabel = new System.Windows.Forms.Label();
             this.intTBX = new System.Windows.Forms.TextBox();
             this.folderTBX = new System.Windows.Forms.TextBox();
@@ -101,8 +102,9 @@ namespace ExecuteCatalogPackageTaskUI
             this.Controls.Add(this.folderLabel);
             this.Controls.Add(this.intTBX);
             this.Controls.Add(this.intLabel);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "ExecuteCatalogPackageTaskUIForm";
-            this.Text = "ExecuteCatalogPackageTaskUIForm";
+            this.Text = "Execute Catalog Package Task Editor";
             this.ResumeLayout(false);
             this.PerformLayout();
 

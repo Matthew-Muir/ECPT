@@ -11,7 +11,7 @@ namespace ECPT
         TaskType = "DTS150", 
         DisplayName = "Execute Catalog Package Task", 
         Description ="A task to execute packages stored in a SSIS catalog v1",
-        UITypeName = "ExecuteCatalogPackageTaskUI.ExecuteCatalogPackageTaskUI, ExecuteCatalogPackageTaskUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ca065971ab7c9709",
+        UITypeName = "ECPTTaskEditor.ECPTTaskEditor, ECPTTaskEditor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2f2263a7c743e9f1",
         IconResource = "ECPT.Resources.favicon.ico")]
     public class ExecuteCatalogPackageTask : Task
     {
