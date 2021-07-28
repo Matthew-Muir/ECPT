@@ -69,6 +69,11 @@
   <ItemGroup>
     <None Include="ECPTUIkey.snk" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ExecuteCatalogPackageTaskUIForm.resx">
+      <DependentUpon>ExecuteCatalogPackageTaskUIForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PreBuildEvent>"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\gacutil.exe" -u ExecuteCatalogPackageTaskUI.dll</PreBuildEvent>

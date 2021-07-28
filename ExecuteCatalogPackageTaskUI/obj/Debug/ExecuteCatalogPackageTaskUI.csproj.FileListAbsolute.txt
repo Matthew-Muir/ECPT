@@ -1,0 +1,9 @@
+C:\Users\mattm\source\repos\ECPT\ExecuteCatalogPackageTaskUI\obj\Debug\ExecuteCatalogPackageTaskUI.csproj.AssemblyReference.cache
+C:\Users\mattm\source\repos\ECPT\ExecuteCatalogPackageTaskUI\obj\Debug\ExecuteCatalogPackageTaskUI.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Tasks\ExecuteCatalogPackageTaskUI.dll
+C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Tasks\ExecuteCatalogPackageTaskUI.pdb
+C:\Users\mattm\source\repos\ECPT\ExecuteCatalogPackageTaskUI\obj\Debug\ExecuteCatalogPackageTaskUI.ExecuteCatalogPackageTaskUIForm.resources
+C:\Users\mattm\source\repos\ECPT\ExecuteCatalogPackageTaskUI\obj\Debug\ExecuteCatalogPackageTaskUI.csproj.GenerateResource.cache
+C:\Users\mattm\source\repos\ECPT\ExecuteCatalogPackageTaskUI\obj\Debug\ExecuteCatalogPackageTaskUI.csproj.CopyComplete
+C:\Users\mattm\source\repos\ECPT\ExecuteCatalogPackageTaskUI\obj\Debug\ExecuteCatalogPackageTaskUI.dll
+C:\Users\mattm\source\repos\ECPT\ExecuteCatalogPackageTaskUI\obj\Debug\ExecuteCatalogPackageTaskUI.pdb
