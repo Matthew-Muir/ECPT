@@ -22,8 +22,9 @@ namespace ECPTTaskEditor
 
         public ContainerControl GetView()
         {
-            return new ECPTTaskEditor(taskHost, connectionService);
+            return new ECPTTaskEditorUIForm(taskHost, connectionService);
         }
+
 
         public void Initialize(TaskHost taskHost, IServiceProvider serviceProvider)
         {

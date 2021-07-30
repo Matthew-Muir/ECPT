@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Tasks\ECPTTaskEditor.dll
+C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Tasks\ECPTTaskEditor.pdb
+C:\Users\mattm\source\repos\ECPT\ECPTTaskEditor\obj\Debug\ECPTTaskEditor.csproj.AssemblyReference.cache
+C:\Users\mattm\source\repos\ECPT\ECPTTaskEditor\obj\Debug\ECPTTaskEditor.csproj.CoreCompileInputs.cache
+C:\Users\mattm\source\repos\ECPT\ECPTTaskEditor\obj\Debug\ECPTTaskEditor.csproj.CopyComplete
+C:\Users\mattm\source\repos\ECPT\ECPTTaskEditor\obj\Debug\ECPTTaskEditor.dll
+C:\Users\mattm\source\repos\ECPT\ECPTTaskEditor\obj\Debug\ECPTTaskEditor.pdb
+C:\Users\mattm\source\repos\ECPT\ECPTTaskEditor\obj\Debug\ECPTTaskEditor.Resource1.resources
+C:\Users\mattm\source\repos\ECPT\ECPTTaskEditor\obj\Debug\ECPTTaskEditor.csproj.GenerateResource.cache
